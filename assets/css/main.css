@@ -1,0 +1,12 @@
+
+.boton{
+	margin-left: 80%;
+}
+
+.col-12{
+	background-image: url(http://lorempixel.com/1024/600/cats/);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+}
